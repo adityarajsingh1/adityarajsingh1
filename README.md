@@ -11,7 +11,7 @@ I have hands-on experience with essential data engineering tools and technologie
 I am a detail-oriented, empathetic team player who enjoys deep work and continuous learning. My approach combines data engineering and analytics to deliver high-quality, data-driven solutions that align with business objectives, enhance performance, and drive growth.
 
 ---
-LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/praveen-basavapatna-madhava/)
+LinkedIn Profile: [Aditya Raj Singh](https://www.linkedin.com/in/aditya119856/)
 
 ---
 
