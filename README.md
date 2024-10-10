@@ -59,7 +59,7 @@ LinkedIn Profile: [Aditya Raj Singh](https://www.linkedin.com/in/aditya119856/)
 
 - Power BI
 - Tableau
-- Qlik Sense
+- SAP Analytics Cloud
   
 ### **_Web Development Stack_**
 
